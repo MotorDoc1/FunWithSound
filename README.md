@@ -7,7 +7,7 @@
 
  Data from a Samsung A51 phone (video converted to wav), although any wav file can be processed.
 
- Just for fun.  Systems used for analyzing these types of faults is more complex.
+ Just for fun.  Systems used for analyzing these types of faults are more complex.
 
  The sound file used is also included.  Use at your own risk.
 
